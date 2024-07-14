@@ -1,6 +1,6 @@
 # Project demo
 
-The demo of this project can be found at https://darkluminance.github.io/todolistapp/todolist.html
+The demo of this project can be found at [https://darkluminance.github.io/todolistapp/todolist.html](https://rye013.netlify.app/project-releases/todolist-app)
 
 # Getting Started with Create React App
 
